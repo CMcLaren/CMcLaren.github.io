@@ -11,8 +11,8 @@ aside {
   }
   
 img {
-  width: 330;
-  height: 200;
+  width: 330px;
+  height: 200px;
 }
 
 .sideright {
@@ -22,6 +22,6 @@ img {
   float: left;
 }
 aside.technicalskills {
-  width: 330;
-  height: 200;
+  width: 330px;
+  height: 200px;
 }
