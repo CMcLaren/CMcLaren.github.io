@@ -1,0 +1,26 @@
+main {
+  width: 990px;
+}
+
+
+aside {
+  width: 330px;
+  height: 600px;
+  background-color: red;
+  float: left;
+  }
+img {
+  width: 330;
+  height: 200;
+}
+
+.sideright {
+  width: 660px;
+  height: 600px;
+  background-color: blue;
+  float: left;
+}
+aside.technicalskills {
+  width: 330;
+  height: 200;
+}
