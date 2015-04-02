@@ -9,7 +9,6 @@ aside {
   background-color: red;
   float: left;
   }
-  
 img {
   width: 330px;
   height: 200px;
@@ -21,7 +20,9 @@ img {
   background-color: blue;
   float: left;
 }
-aside.technicalskills {
+.technicalskills {
   width: 330px;
   height: 200px;
+  background-color: grey;
+  border: 1px solid black;
 }
