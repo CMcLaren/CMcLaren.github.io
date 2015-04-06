@@ -6,7 +6,7 @@ main {
 aside {
   width: 330px;
   height: 600px;
-  background-color: black;
+  background-color: #3D3D41;
   float: left;
   }
 img {
@@ -29,7 +29,7 @@ img {
 .sideright {
   width: 660px;
   height: 600px;
-  background-color: #3D3D41;
+  background-color: white;
   float: left;
 }
 
