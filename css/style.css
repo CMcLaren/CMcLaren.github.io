@@ -12,24 +12,35 @@ aside {
 img {
   width: 330px;
   height: 200px;
-
 }
+
 .technicalskills {
   width: 330px;
   height: 200px;
   background-color: #3D3D41;
-  
 }
+
 .softwareskills {
   width: 330px;
   height: 200px;
-  background-color: #3D3D41;
- 
+  background-color: #3D3D41; 
 }
+
 .sideright {
   width: 660px;
   height: 600px;
   background-color: white;
   float: left;
+}
+
+.toplinecontent {
+  width: 660px;
+  height: 150px; 
+}
+
+.blockquote {
+  width: 660px;
+  height: 150px; 
+  background-color: #D0D0D1;
 }
 
