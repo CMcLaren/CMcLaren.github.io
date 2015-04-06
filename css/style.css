@@ -38,6 +38,12 @@ img {
   height: 150px; 
 }
 
+.sidelinecontent {
+  width:220px;
+  height:150px;
+  float: right;
+}
+
 .blockquote {
   width: 660px;
   height: 150px; 
