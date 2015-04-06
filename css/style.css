@@ -17,19 +17,19 @@ img {
 .technicalskills {
   width: 330px;
   height: 200px;
-  background-color: black;
+  background-color: #3D3D41;
   
 }
 .softwareskills {
   width: 330px;
   height: 200px;
-  background-color: black;
+  background-color: #3D3D41;
  
 }
 .sideright {
   width: 660px;
   height: 600px;
-  background-color: blue;
+  background-color: #3D3D41;
   float: left;
 }
 
