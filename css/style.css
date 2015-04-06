@@ -6,23 +6,30 @@ main {
 aside {
   width: 330px;
   height: 600px;
-  background-color: red;
+  background-color: black;
   float: left;
   }
 img {
   width: 330px;
   height: 200px;
+  border: 1px solid black;
 }
-
+.technicalskills {
+  width: 330px;
+  height: 200px;
+  background-color: black;
+  border: 1px solid black;
+}
+.softwareskills {
+  width: 330px;
+  height: 200px;
+  background-color: black;
+  border: 1px solid black;
+}
 .sideright {
   width: 660px;
   height: 600px;
   background-color: blue;
   float: left;
 }
-.technicalskills {
-  width: 330px;
-  height: 200px;
-  background-color: grey;
-  border: 1px solid black;
-}
+
