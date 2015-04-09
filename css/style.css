@@ -4,9 +4,9 @@ main {
 aside {
   width: 330px;
   height: 600px;
-  border-left-width: 50px
   background-color: #3D3D41;
   float: left;
+  border-left-width: 50px;
 }
 
 img {
