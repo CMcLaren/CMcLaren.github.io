@@ -61,7 +61,9 @@ softwareskills {
 
 .education {
   width: 660px;
-  height: 150px; 
+  height: 150px;
+  margin-left: 50px;
+  margin-bottom: 63px;
 }
 
 .experience {
