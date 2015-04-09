@@ -6,7 +6,7 @@ aside {
   height: 600px;
   background-color: #3D3D41;
   float: left;
-  border-left-width: 50px;
+  border-left-width: 100px;
 }
 
 img {
@@ -23,10 +23,10 @@ img {
   background-color: #3D3D41;
 }
 
-.softwareskills {
-  width: 330px;
-  height: 200px;
-  background-color: #3D3D41; 
+softwareskills {
+  width: 304px;
+  height: 155px;
+  background-color: #3D3D41;
 }
 
 .sideright {
