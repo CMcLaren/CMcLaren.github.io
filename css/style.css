@@ -50,6 +50,8 @@ img {
   width: 184px;
   height: 105px;
   float: right;
+  margin-top: -94px;
+  margin-bottom: 20px;
 }
 
 .blockquote {
@@ -61,6 +63,7 @@ img {
   padding-bottom: 10px;
   background-color: #D0D0D1;
   margin-left: 28px;
+  margin-top: 15px;
 }
 
 .education {
@@ -76,3 +79,12 @@ img {
   margin-left: 50px;
 }
 
+h1 {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 4em;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  margin-right: 0px;
+  margin-left: 29px;
+  width: 471px;
+}
