@@ -1,4 +1,9 @@
+body {
+  margin: 0px;
+}
+
 main {
+  padding-left: 83px;
   width: 990px;
 }
 
