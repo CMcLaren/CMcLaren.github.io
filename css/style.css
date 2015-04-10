@@ -1,9 +1,10 @@
 main {
   width: 990px;
 }
+
 aside {
   width: 330px;
-  height: 600px;
+  height: 741px;
   background-color: #3D3D41;
   float: left;
   border-left-width: 100px;
@@ -22,12 +23,14 @@ img {
   width: 330px;
   height: 200px;
   background-color: #3D3D41;
+  margin-left: 20px;
 }
 
-softwareskills {
+.softwareskills {
   width: 304px;
   height: 155px;
   background-color: #3D3D41;
+  margin-left: 20px;
 }
 
 .sideright {
@@ -39,7 +42,8 @@ softwareskills {
 
 .toplinecontent {
   width: 660px;
-  height: 150px; 
+  height: 150px;
+  margin-left: 41px;
 }
 
 .sidelinecontent {
